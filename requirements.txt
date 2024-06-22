@@ -1,0 +1,6 @@
+streamlit
+paddleocr
+paddlepaddle
+numpy
+PIL
+opencv-python
